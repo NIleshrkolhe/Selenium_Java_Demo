@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24" started-at="2017-01-03T12:46:02Z" finished-at="2017-01-03T12:46:02Z">
+  <suite name="Suite" duration-ms="29" started-at="2017-01-03T13:25:41Z" finished-at="2017-01-03T13:25:41Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24" started-at="2017-01-03T12:46:02Z" finished-at="2017-01-03T12:46:02Z">
+    <test name="Test" duration-ms="29" started-at="2017-01-03T13:25:41Z" finished-at="2017-01-03T13:25:41Z">
       <class name="DemoJenkins.DemoJenkinJobs">
-        <test-method status="PASS" signature="testJenkins1()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins1" duration-ms="9" started-at="2017-01-03T18:16:02Z" finished-at="2017-01-03T18:16:02Z">
+        <test-method status="PASS" signature="testJenkins1()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins1" duration-ms="12" started-at="2017-01-03T18:55:41Z" finished-at="2017-01-03T18:55:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkins1 -->
-        <test-method status="PASS" signature="testJenkins2()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins2" duration-ms="0" started-at="2017-01-03T18:16:02Z" finished-at="2017-01-03T18:16:02Z">
+        <test-method status="PASS" signature="testJenkins2()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins2" duration-ms="1" started-at="2017-01-03T18:55:41Z" finished-at="2017-01-03T18:55:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkins2 -->
-        <test-method status="PASS" signature="testJenkins3()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins3" duration-ms="0" started-at="2017-01-03T18:16:02Z" finished-at="2017-01-03T18:16:02Z">
+        <test-method status="PASS" signature="testJenkins3()[pri:0, instance:DemoJenkins.DemoJenkinJobs@22a71081]" name="testJenkins3" duration-ms="1" started-at="2017-01-03T18:55:41Z" finished-at="2017-01-03T18:55:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testJenkins3 -->
