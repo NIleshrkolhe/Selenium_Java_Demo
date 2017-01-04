@@ -21,7 +21,17 @@ public class DemoJenkinJobs {
 		
 		System.out.println("Welcome to Jenkin world three");
 		}
-	
+	@Test
+	public void testJenkins3(){
+		
+		System.out.println("Welcome to Jenkin world four");
+		}
+		
+		@Test
+	public void testJenkins3(){
+		
+		System.out.println("Welcome to Jenkin world five");
+		}
 	
 
 }
