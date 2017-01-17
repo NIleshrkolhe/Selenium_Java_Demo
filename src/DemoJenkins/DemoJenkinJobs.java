@@ -7,13 +7,13 @@ public class DemoJenkinJobs {
 	@Test
 	public void testJenkins1(){
 		
-		System.out.println("Welcome to Jenkin world");
+		System.out.println("Welcome to Jenkin world ****************************");
 		}
 	
 	@Test
 	public void testJenkins2(){
 		
-		System.out.println("Welcome to Jenkin world two");
+		System.out.println("Welcome to Jenkin world two ___________________________________");
 		}
 	
 	@Test
@@ -37,5 +37,7 @@ public class DemoJenkinJobs {
 		
 		System.out.println("Welcome to Jenkin world Six");
 		}
+		
+		
 
 }
