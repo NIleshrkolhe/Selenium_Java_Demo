@@ -6,4 +6,4 @@
       <class name="DemoJenkins.DemoJenkinJobs"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite for testing -->
+</suite> <!-- Suite for testing Project -->
